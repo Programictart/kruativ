@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color:Lavender
+        }
+    </style>
+    <title> Криативчик </title>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="лого.png">
+</head>
+<body>
+<H3 align="center"><i><b> Делаю аватарки, персонажей и многое другое! </b></i></H3>
+<meta charset="UTF-8">
+<title>Title</title>
+<hr>
+<br>
+<img alt="Картинка не прогрузилась =(" src="чашка.png" width="512" title="Кофе с листочком">
+<img alt="Картинка не прогрузилась =(" src="закат.png" width="512" title="Милый закат">
+<img alt="Картинка не прогрузилась =(" src="роза.png" width="512" title="Роза огня">
+<img alt="Картинка не прогрузилась =(" src="пузири.png" width="512" title="Пузирики">
+<img alt="Картинка не прогрузилась =(" src="спринтрап.png" width="512" title="Спрингтрап">
+<img alt="Картинка не прогрузилась =(" src="Mini%20PEKKA.png" width="512" title="Мини Пекка">
+<hr>
+<br>
+<label>
+    <h3>Мои работы!</h3>
+    <br>
+      Нравиться?
+    да<input type="radio" name=".">
+    нет<input type="radio" name="." >
+</label>
+<br>
+</body>
+<a href="/" class="logo">
+</a>
+</html>
